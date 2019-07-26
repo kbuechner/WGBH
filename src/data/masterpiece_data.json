@@ -1,0 +1,33 @@
+{
+	"franchise": {
+		"title": "Masterpiece",
+		"programs": [
+			{
+				"title": "Downton Abbey",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur quis velit et elementum. Pellentesque mi massa, placerat nec elit at, gravida sollicitudin augue. Vivamus semper nulla eu orci sollicitudin efficitur. Donec ac magna vel massa interdum feugiat sit amet maximus tellus.",
+				"episode": {
+					"title": "Mary and Lord Grantham Drink Tea",
+					"date": "Sunday, June 16, 2019",
+					"time": "9:00 pm",
+					"image": {
+						"src": "img-downton-s4e2.jpg",
+						"alt": "A iddle-aged man and young woman look anxiously to their left. They are dressed in formal fashions of the 1920s. The man is wearing a tuxedo, the woman is wearing a black gown and a tiara-like hairpiece. Behind them, a lamp illuminates a yellow curtain."
+					}
+				}
+			},
+			{
+				"title": "Les Miserables",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur quis velit et elementum. Pellentesque mi massa, placerat nec elit at, gravida sollicitudin augue. Vivamus semper nulla eu orci sollicitudin efficitur. Donec ac magna vel massa interdum feugiat sit amet maximus tellus.",
+				"episode": {
+					"title": "I Think Javert Is Going to Jump!",
+					"date": "Wednesday, June 19, 2019",
+					"time": "9:00 pm",
+					"image": {
+						"src": "img-les-mis-ep1.jpg",
+						"alt": "A young woman gazes pensively at the camera.  She is wearing a simple, cap-sleevedshift dress in an 18th century style. Her hair is braided and pinned up with white flowers."
+					}
+				}
+			}
+		]
+	}
+}
